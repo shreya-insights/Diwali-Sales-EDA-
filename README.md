@@ -26,6 +26,11 @@ Various plots were created to derive insights:
 
 All visualizations were created using `matplotlib` and `seaborn`, and are displayed directly in the notebook.
 
+## 🔗 Live Visualization (HTML)
+
+🎯 [Click here to view the interactive HTML version of the Diwali Sales Analysis](https://raw.githack.com/shreya-insights/Diwali-Sales-EDA-/main/HTML%20View%20of%20Diwali%20Sales%20Analysis.html)
+
+
 ## 📂 How to Use
 1. Clone the repository or download the notebook.
 2. Ensure you have Jupyter Notebook and the required libraries installed:
